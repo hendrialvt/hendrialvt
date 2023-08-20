@@ -1,6 +1,6 @@
 ## &#x1f4c8; Github Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hendrialvt.hendrialvt)
+![](https://visitor-badge.glitch.me/badge?page_id=hendrialvt.hendrialvt)
 ![](https://img.shields.io/github/followers/hendrialvt?style=social)
 ![](https://img.shields.io/github/forks/hendrialvt/hendrialvt.github.io?style=social)
 ![](https://img.shields.io/github/stars/hendrialvt?style=social)
